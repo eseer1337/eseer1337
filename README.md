@@ -1,6 +1,3 @@
-# BurntNarrative
-#Wiki-esque page for Hopeless Maw
-#test
 <!DOCTYPE html>
 <html>
   <head>
